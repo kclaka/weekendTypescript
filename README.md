@@ -1,0 +1,2 @@
+# weekendTypescript
+Learning Typescript
